@@ -1,2 +1,1 @@
-# PrepCourse-Henry-
-Este es un reposoitorio de prueba del mkodulo 2 de henry 
+Este proyecto es una prueba d eocmo crear un repositorio y clonarlo desde github a mi computadora
